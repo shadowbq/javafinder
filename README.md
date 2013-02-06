@@ -1,11 +1,14 @@
-javafinder
-==========
+JavaFinder
+---------
 
-Java Finder by petrucio@stackoverflow(828681)
+Author: Java Finder by petrucio@stackoverflow(828681)
 
+*Does anyone know how to programatically get all JVMs installed (not the default one) using Java?*
 
-Example Run
-=========
+This is a windows solution that reads 32 bit and 64 registry keys to find installed versions of JRE & JDK.
+
+## Example Run
+
 
 ```dos
 c:\> cd lib
