@@ -56,3 +56,11 @@ lib/JavaInfo.class
 lib/RuntimeStreamer.class
 lib/WinRegistry.class
 ```
+
+Invoking particular Java 
+---------
+You can invoke particular java in this manner on windows
+
+```shell
+java -version:1.6 -version
+```
